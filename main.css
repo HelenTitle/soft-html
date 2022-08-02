@@ -12,7 +12,7 @@ header {
     height: 100%;
     width: 100%;
     float: left;
-    background: #4CAF50;
+    background: #4c74af;
     padding: 0 20px;
     color: #fff;
 }
@@ -62,7 +62,7 @@ header {
 .navigation a:hover,
 .show-menu-btn:hover,
 .hide-menu-btn:hover {
-    color: #00ff0a;
+    color: #fff;
 }
 #toggle-btn {
     position: absolute;
@@ -80,7 +80,7 @@ header {
     position: fixed;
     width: 100%;
     height: 100vh;
-    background: #49d24f;
+    background: #4c74af;
     top: -100%;
     left: 0;
     padding: 50px 0px;
