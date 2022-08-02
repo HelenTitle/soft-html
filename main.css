@@ -120,6 +120,10 @@ a.active, a:hover{
 
 }
 
+}
+section{
 
-
+    background: url(img/img-code.jpg) no-repeat;
+    background-size: cover;
+    height: calc(100vh-80px);
 }
