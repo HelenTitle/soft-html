@@ -121,7 +121,7 @@ a.active, a:hover{
 }
 
 }
-section{
+.section{
     background: url(img/bg1.jpg) no-repeat;
     background-size: cover;
     height: calc(100vh - 80px);
