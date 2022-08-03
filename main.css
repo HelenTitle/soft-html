@@ -126,3 +126,17 @@ a.active, a:hover{
     background-size: cover;
     height: calc(100vh - 80px);
   }
+
+.code{
+    margin: 20px;
+    display: inline-block;
+    width: 50%;
+    background: rgba(255, 255, 255, 0.8); /* Полупрозрачный фон */
+    padding: 1rem; /* Поля вокруг текста */
+    border-radius: 5px; /* Радиус скругления */
+       
+}
+
+.lorem{
+    margin-top: 20px;
+}
